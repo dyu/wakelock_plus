@@ -24,6 +24,10 @@ dependencies:
   # Linux dependencies
   dbus: ^0.7.8
   package_info_plus: ">=4.0.2 <6.0.0"
+    git:
+      url: https://github.com/dyu/plus_plugins
+      path: packages/package_info_plus/package_info_plus
+      ref: bhca
 
   # Web dependencies
   js: ^0.6.5
